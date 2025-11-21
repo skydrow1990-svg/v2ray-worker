@@ -5,4 +5,4 @@ compatibility_flags = ["nodejs_compat"]
 
 kv_namespaces = [
   { binding = "settings", id = "KV_NAME" }
-]
+] 
